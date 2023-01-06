@@ -20,7 +20,7 @@
 nav{
     display: flex;
     justify-content: space-between;
-    margin: 55px 50px 10px;
+    padding: 50px 200px;
     
 }
 nav li{
